@@ -1,0 +1,8 @@
+@font-face{
+	src:url(../fonts/georgia/Georgia.ttf);
+	font-family: georgia-regular;
+}
+body{
+	font-family: georgia-regular;
+	font-weight: 400;
+}
